@@ -1,0 +1,18 @@
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo h1 {
+  color: var(--yellow);
+}
+
+.logo p {
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.right {
+  cursor: pointer;
+}
